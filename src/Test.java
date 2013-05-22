@@ -9,6 +9,7 @@ public class Test {
 		System.out.println("\n"+"new file");
 		System.out.println("More changes added");
 		System.out.println("we are now editing the bug");
+		System.out.println("final changes");
 
 
 	}
